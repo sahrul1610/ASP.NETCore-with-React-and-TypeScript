@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\ReactWithASP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81D7E899-DAAC-483E-AF4D-949EF1F8354B}|ReactWithASP.Server\\ReactWithASP.Server.csproj|c:\\users\\hp\\source\\repos\\reactwithasp\\reactwithasp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D7E899-DAAC-483E-AF4D-949EF1F8354B}|ReactWithASP.Server\\ReactWithASP.Server.csproj|solutionrelative:reactwithasp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E184E3-6DAB-47E8-A954-1E25B8EFF88B}|reactwithasp.client\\reactwithasp.client.esproj|c:\\users\\hp\\source\\repos\\reactwithasp\\reactwithasp.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C9E184E3-6DAB-47E8-A954-1E25B8EFF88B}|reactwithasp.client\\reactwithasp.client.esproj|solutionrelative:reactwithasp.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E184E3-6DAB-47E8-A954-1E25B8EFF88B}|reactwithasp.client\\reactwithasp.client.esproj|c:\\users\\hp\\source\\repos\\reactwithasp\\reactwithasp.client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{C9E184E3-6DAB-47E8-A954-1E25B8EFF88B}|reactwithasp.client\\reactwithasp.client.esproj|solutionrelative:reactwithasp.client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E184E3-6DAB-47E8-A954-1E25B8EFF88B}|reactwithasp.client\\reactwithasp.client.esproj|c:\\users\\hp\\source\\repos\\reactwithasp\\reactwithasp.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9E184E3-6DAB-47E8-A954-1E25B8EFF88B}|reactwithasp.client\\reactwithasp.client.esproj|solutionrelative:reactwithasp.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E184E3-6DAB-47E8-A954-1E25B8EFF88B}|reactwithasp.client\\reactwithasp.client.esproj|c:\\users\\hp\\source\\repos\\reactwithasp\\reactwithasp.client\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C9E184E3-6DAB-47E8-A954-1E25B8EFF88B}|reactwithasp.client\\reactwithasp.client.esproj|solutionrelative:reactwithasp.client\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E184E3-6DAB-47E8-A954-1E25B8EFF88B}|reactwithasp.client\\reactwithasp.client.esproj|c:\\users\\hp\\source\\repos\\reactwithasp\\reactwithasp.client\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C9E184E3-6DAB-47E8-A954-1E25B8EFF88B}|reactwithasp.client\\reactwithasp.client.esproj|solutionrelative:reactwithasp.client\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ReactWithASP\\ReactWithASP.Server\\Program.cs",
+              "RelativeDocumentMoniker": "ReactWithASP.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ReactWithASP\\ReactWithASP.Server\\Program.cs",
+              "RelativeToolTip": "ReactWithASP.Server\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T04:24:33.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ReactWithASP\\reactwithasp.client\\README.md",
+              "RelativeDocumentMoniker": "reactwithasp.client\\README.md",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ReactWithASP\\reactwithasp.client\\README.md",
+              "RelativeToolTip": "reactwithasp.client\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-19T04:21:57.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ReactWithASP\\reactwithasp.client\\package.json",
+              "RelativeDocumentMoniker": "reactwithasp.client\\package.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ReactWithASP\\reactwithasp.client\\package.json",
+              "RelativeToolTip": "reactwithasp.client\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-19T04:21:54.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "nuget.config",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ReactWithASP\\reactwithasp.client\\nuget.config",
+              "RelativeDocumentMoniker": "reactwithasp.client\\nuget.config",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ReactWithASP\\reactwithasp.client\\nuget.config",
+              "RelativeToolTip": "reactwithasp.client\\nuget.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-19T04:21:52.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "eslint.config.js",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ReactWithASP\\reactwithasp.client\\eslint.config.js",
+              "RelativeDocumentMoniker": "reactwithasp.client\\eslint.config.js",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ReactWithASP\\reactwithasp.client\\eslint.config.js",
+              "RelativeToolTip": "reactwithasp.client\\eslint.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-19T04:21:51.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ReactWithASP\\reactwithasp.client\\vite.config.js",
+              "RelativeDocumentMoniker": "reactwithasp.client\\vite.config.js",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ReactWithASP\\reactwithasp.client\\vite.config.js",
+              "RelativeToolTip": "reactwithasp.client\\vite.config.js",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-19T04:17:20.07Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
